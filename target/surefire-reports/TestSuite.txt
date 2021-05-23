@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 23.528 s <<< FAILURE! - in TestSuite
+test.test.login[ajay, 123](1)  Time elapsed: 15.385 s  <<< FAILURE!
+java.lang.AssertionError: expected [The email or password you have entered is invalid.] but found [The email or password you have entered is invalid]
+	at test.test.login(test.java:70)
+
